@@ -1,3 +1,11 @@
+本フォークのソースプログラム・ビルド成果物は、
+うっちぃ氏により公開されている
+https://github.com/ucchyocean/LunaChat
+を、gray27が Spigot1.17-R0.1-SNAPSHOT に対応させたものである。
+
+以下、フォーク元のREADME引用
+-----------
+
 LunaChat
 ========
 
